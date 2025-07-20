@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
+    "backgroundColor": "#064d1d",
     "scheme": "elatarappmobile",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -19,7 +20,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#064d1d"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.elatarapp.elatarappmobile"
